@@ -37,12 +37,7 @@ The reports provide insights into **sales performance, profitability, and market
 5. **Profit and Loss by Fiscal Months Report**  
    - File: `Profit and loss by fiscal months report.pdf`  
    - Detailed **P&L analysis on a monthly and quarterly basis**.  
-   - Provides insights into seasonality and business cycles.  
-
----
-
-## 📊 Data Source  
-All reports are based on **`sales_report_etl_1.xlsx`**, which contains ETL-processed sales data.  
+   - Provides insights into seasonality and business cycles.   
 
 ---
 
