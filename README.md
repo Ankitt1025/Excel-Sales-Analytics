@@ -54,16 +54,6 @@ All reports are based on **`sales_report_etl_1.xlsx`**, which contains ETL-proce
 
 ---
 
-## 🖼️ Preview  
-
-Here’s a sample preview of one of the reports (replace with actual screenshot):  
-
-![Report Preview](preview.png)  
-
-*(Add a screenshot named `preview.png` in the repo to display it here.)*  
-
----
-
 ## 🚀 Usage  
 - Open any report (PDF) to explore insights.  
 - Use these reports for **business analysis, financial planning, and performance tracking**.  
